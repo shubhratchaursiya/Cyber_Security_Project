@@ -2,7 +2,7 @@ Here’s a polished and informative `README.md` draft tailored to the **CyberSec
 
 ---
 
-# CyberSecurity\_ 🚀
+# CyberSecurity\ 🚀
 
 A curated collection of cybersecurity tools, demos, and educational code to help explore common vulnerabilities, security techniques, and best practices.
 
